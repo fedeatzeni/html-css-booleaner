@@ -29,3 +29,31 @@ header span{
 .highlighted{
     background-color: yellow;
 }
+
+thead{
+    background-color: #4283d9;
+    color: white;
+}
+
+.table-blue{
+    background-color: lightblue;
+}
+
+.suggest{
+    color: white;
+    font-size: 20px;
+}
+
+.img-1{
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 250px;
+}
+
+.img-2{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 350px;
+    height: 250px;
+}
