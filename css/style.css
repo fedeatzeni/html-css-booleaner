@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    margin: 50px 0 0 20px;
+    width: 400px;
+}
+
+.pattern{
+    height: 150px;
+    background-color: #4283d9;
+    background-image: url(../img/pattern.png);
+}
+
+.gray{
+    color: gray;
+}
+
+header span{
+    color: #4283d9;
+}
