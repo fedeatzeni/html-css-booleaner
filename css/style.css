@@ -1,6 +1,6 @@
-*{
-    margin: 0;
-    padding: 0;
+
+body{
+    padding: 5px;
 }
 
 .logo{
@@ -20,4 +20,12 @@
 
 header span{
     color: #4283d9;
+}
+
+.under-img{
+    font-size: 10px;
+}
+
+.highlighted{
+    background-color: yellow;
 }
